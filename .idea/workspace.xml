@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09d9ffdd-3bc6-45b4-9c5c-2d47ce6412f7" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.8.1\usrlibs" />
+        <option name="mavenHome" value="D:/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25Y1p34YARdDC8tOK0CitN3wZa6" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15136719" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\硬盘\项目\LeetCode\LeetCodeProject\src\leetcode\editor\cn\note" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Solution">
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.Solution" />
+      <module name="AlgorithmProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.Solution2" />
+      <module name="AlgorithmProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.Solution206" />
+      <module name="AlgorithmProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.editor.cn.Solution21" />
+      <module name="AlgorithmProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIntArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.TestIntArr" />
+      <module name="AlgorithmProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Solution" />
+        <item itemvalue="应用程序.Solution2" />
+        <item itemvalue="应用程序.TestIntArr" />
+        <item itemvalue="应用程序.Solution206" />
+        <item itemvalue="应用程序.Solution21" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09d9ffdd-3bc6-45b4-9c5c-2d47ce6412f7" name="默认的" comment="" />
+      <created>1645689384856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645689384856</updated>
+      <workItem from="1645689388419" duration="13847000" />
+      <workItem from="1645760568284" duration="13459000" />
+      <workItem from="1645842872212" duration="47000" />
+      <workItem from="1646037870575" duration="164000" />
+      <workItem from="1646038105881" duration="10027000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="842" y="382" key="#Notifications" timestamp="1646043133804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="842" y="382" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1646043133804" />
+    <state x="604" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645720344099">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="604" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1645720344099" />
+    <state x="665" y="167" key="#console.sql" timestamp="1645720236912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="167" key="#console.sql/0.0.1920.1040@0.0.1920.1040" timestamp="1645720236912" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1645842917258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1645842917258" />
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom" timestamp="1646044843666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1646044843666" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center" timestamp="1646044843665">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1646044843665" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left" timestamp="1646044843665">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1646044843665" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right" timestamp="1646044843666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1646044843666" />
+    <state width="1876" height="346" key="GridCell.Tab.1.bottom" timestamp="1645769715905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1645769715905" />
+    <state width="1876" height="346" key="GridCell.Tab.1.center" timestamp="1645769715905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1645769715905" />
+    <state width="1876" height="346" key="GridCell.Tab.1.left" timestamp="1645769715905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1645769715905" />
+    <state width="1876" height="346" key="GridCell.Tab.1.right" timestamp="1645769715905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1645769715905" />
+    <state x="384" y="176" width="1199" height="711" key="SettingsEditor" timestamp="1646043320326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="384" y="176" width="1199" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1646043320326" />
+    <state x="879" y="465" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1645719669495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="879" y="465" key="com.intellij.database.run.ParametersPanel.Standalone/0.0.1920.1040@0.0.1920.1040" timestamp="1645719669495" />
+    <state x="545" y="249" width="829" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1645765476799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="545" y="249" width="829" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1645765476799" />
+    <state x="661" y="223" width="597" height="594" key="find.popup" timestamp="1645696143376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="223" width="597" height="594" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1645696143376" />
+    <state x="490" y="180" key="new project wizard" timestamp="1646042476708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1646042476708" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1645768183167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1645768183167" />
+  </component>
+</project>
