@@ -137,7 +137,7 @@ LoginName&Password：LeetCode的登录账号
  * }
  */
 
-class Solution {
+class Solution53 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         
       
